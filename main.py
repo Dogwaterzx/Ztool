@@ -28,7 +28,7 @@ print("(Mobile)")
 print()
 print()
 
-print("Made by, ytz!#0001")
+print("Made by, Dogwaterzx")
 print("Thanks for buying ;)")
 print()
 print()
